@@ -7,7 +7,7 @@
 
 A modern, professional web application for converting speech to text using advanced AI-powered transcription. Built with vanilla HTML, CSS, and JavaScript, featuring a stunning glassmorphism design and real-time audio processing.
 
-![Dext Preview](https://via.placeholder.com/800x400/1a0b3d/ffffff?text=Dext+Speech+to+Text)
+
 
 ## ✨ Features
 
@@ -56,8 +56,8 @@ Before running this application, make sure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/dext.git
-cd dext
+git clone https://github.com/dhiraj7kr/SpeechToText.git
+cd SpeechToText
 ```
 
 ### 2. Configure API Key
@@ -214,7 +214,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors & Acknowledgments
 
-- **Your Name** - *Initial work* - [@yourusername](https://github.com/yourusername)
+- **Dhiraj Kumar** - *Initial work* - [@yourusername](https://github.com/dhiraj7kr)
 - **AssemblyAI** - *Speech-to-text API* - [AssemblyAI](https://www.assemblyai.com/)
 - **Font Awesome** - *Icons* - [Font Awesome](https://fontawesome.com/)
 
@@ -222,10 +222,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Need help? We're here for you:
 
-- 📧 **Email**: support@dext.com
-- 💬 **Discord**: [Join our community](https://discord.gg/dext)
+- 📧 **Email**: dhiraj7kr@gmail.com
+- 💬 **Discord**: [Join our community](https://discord.gg/dhiraj7kr)
 - 📖 **Documentation**: [docs.dext.com](https://docs.dext.com)
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/your-username/dext/issues)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/dhiraj7kr/dext/issues)
 
 ## ⭐ Show Your Support
 
@@ -238,6 +238,9 @@ If this project helped you, please consider:
 ---
 
 <div align="center">
+Example:
+
+![Dext Preview](https://github.com/dhiraj7kr/SpeechToText/blob/main/iPhone-13-PRO-127.0.0.1.png)
 
 **[Website](https://dext.com) • [Documentation](https://docs.dext.com) • [API Reference](https://api.dext.com) • [Support](mailto:support@dext.com)**
 
